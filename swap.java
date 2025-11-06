@@ -1,12 +1,12 @@
 import java.lang.*;
-public class swap{
+public class Swap{
 public static void main(String args[]){
-int temp, a=2;
+int temp;
+int a=4;
 int b=7;
-system.out.println("Before Swapping number ="+a+"+b);
-int temp=a;
-int a=b;
-int a=temp;
-system.out.println("After Swapping number= "+a+"+b);
-}
-}
+System.out.println("Before swapping a="+a+"b="+b);
+temp=a;
+a=b;
+b=temp;
+System.out.println("After swapping a="+a+ "b="+b);
+}}
