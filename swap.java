@@ -1,8 +1,8 @@
 import java.lang.*;
-public class Swap{
+public class swap{
 public static void main(String args[]){
 int temp;
-int a=4;
+int a=2;
 int b=7;
 System.out.println("Before swapping a="+a+"b="+b);
 temp=a;
